@@ -92,3 +92,7 @@ These leagues’ teams and colors are currently approximations. I am working on 
 - [ ] Improve error states for when data doesn't render
 - [ ] Consider alternatives to no-js users rather than just "here's the raw data" (something that doesn't required a build if a single color in the JSON file is changed)
 - [ ] Possibly add team `id` manually to JSON file ??
+
+---
+
+TODO
